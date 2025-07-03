@@ -1,0 +1,1 @@
+!function(){const n="/vendor/browser-update/update.min.js";function e(){var e=document.createElement("script");e.src=n,document.body.appendChild(e)}try{document.addEventListener("DOMContentLoaded",e,!1)}catch(n){console.log("Error in unsupported browser: "+n),window.attachEvent("onload",e)}}();
